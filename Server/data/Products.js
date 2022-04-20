@@ -1,0 +1,58 @@
+const products = [
+  {
+    name: "Combo hoa quả tươi",
+    image: "/images/6.png",
+    description: "Combo hoa quả tươi",
+    price: 200,
+    countInStock: 3,
+    rating: 4,
+    numReviews: 4,
+  },
+  {
+    name: "Chanh tươi ngon",
+    image: "/images/5.png",
+    description: "Chanh tươi ngon",
+    price: 5,
+    countInStock: 10,
+    rating: 2,
+    numReviews: 2,
+  },
+  {
+    name: "Nho tươi ngon",
+    image: "/images/4.png",
+    description: "Nho tươi ngon",
+    price: 92,
+    countInStock: 10,
+    rating: 3.5,
+    numReviews: 3,
+  },
+  {
+    name: "Dứa tươi ngon",
+    image: "/images/3.png",
+    description: "Dứa tươi ngon",
+    price: 9,
+    countInStock: 10,
+    rating: 5,
+    numReviews: 9,
+  },
+  {
+    name: "Dâu tươi ngon",
+    image: "/images/2.png",
+    description: "Dâu tươi ngon",
+    price: 99,
+    countInStock: 7,
+    rating: 2,
+    numReviews: 2,
+  },
+  {
+    name: "Xoài tươi ngon",
+    image: "/images/1.png",
+    description: "Xoài tươi ngon",
+    price: 29,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+];
+
+export default products;
